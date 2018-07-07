@@ -1,0 +1,12 @@
+Installation
+	•	MySQL 5.5
+	•	Quartz Scheduler
+	•	MySQL Workbench 6.3
+	•	Eclipse Oxygen ID3
+
+User Manual
+	•	This application is based on the questionnaire provided to the customers.
+	•	It supports dynamic environment
+	•	The application is very easy to use.
+	•	The user has to just answer the questions, he will be provided with the list of Mutual Funds that he can invest in.
+	•	The basic requirements for the customer are that he should know the basic terms in the financial domain like the Rate of Return, Risk, etc.
