@@ -1,0 +1,2 @@
+# Analyzing-Mutual-Funds-Using-ID3-Algorithm
+Common man doesn't know much about mutual funds. It is a software that will ask only a few simple questions to lay man and it will provide mutual funds suitable for his/ her answers. It is based on improved version of ID3 algorithm. By using improved id3 algorithm,software suggests list of mutual funds to lay man. This project got 2nd prize in data mining domain in National level Project competition held at smt. Kashibai Navale college, Vadgaon, Pune 
